@@ -33,9 +33,3 @@
 #### Database
 <img alt="postgresql" src="https://img.shields.io/badge/-postgresql-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" /> <img alt="mongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img alt="aws dynamodb" src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" />
-
-### Most Used Languages
-![James's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jamesyeap&hide=jupyter%20notebook,html&show_icons=true&theme=dark&locale=en&layout=compact)
-
-### Github Stats 
-![James's Github stats](https://github-readme-stats.vercel.app/api?username=jamesyeap&show_icons=true&theme=dark)
