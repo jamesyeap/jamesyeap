@@ -3,7 +3,7 @@
     Hi, I'm James ✌
   </h2>
   <h3>
-    Third Year Computer Science Student @ NUS
+    Final Year Computer Science Student @ NUS
   </h3>
   <p align="center">
     <!-- [<img align="left" alt="<my website>.com" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
