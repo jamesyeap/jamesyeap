@@ -1,15 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is James Yeap
+Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ==================================================================================================================================
 
-Software Engineering Intern, GovTech
-------------------------------------
-
-I'm a final-year Computer Science undergrad at the National University of Singapore.
+I'm a software engineer at Bank of America.
 
 * 🌍  I'm based in Singapore
 * 🖥️  See my portfolio at [my personal website.](http://www.jamesyeap.com)
 * ✉️  You can contact me at [jamesyeap.ys@gmail.com](mailto:jamesyeap.ys@gmail.com)
-* 🧠  I'm learning Go, Terraform, and AWS
 
 ### Skills
 
